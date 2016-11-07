@@ -1,3 +1,2 @@
 # SDL-Maze-Game
-Maze Game
-An old software engineering project using a SDL renderer.
+An old software engineering project from 2012 using an SDL renderer.
