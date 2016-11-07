@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Generate">
+    <Position X="0.5" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AGQEAAAEAFhAI5MgAAAAFQEAACAICAAAAAQAYFBACAA=</HashCode>
+      <FileName>Generate.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="builder" />
+      <Field Name="fileVector" />
+      <Field Name="mazeBlocks" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Builder" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgABEAAQAAAAAAAAgIAAAAAAABAACB4AAACAA=</HashCode>
+      <FileName>Builder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="std::vector&lt;_Ty, _Ax&gt;" Collapsed="true">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IUgEEIEqCLBMQEBAAKMIAgISAAUESAIAxQEwgwAEQgI=</HashCode>
+      <FileName>f:\visstu 2010\vc\include\vector</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Texture" Collapsed="true">
+    <Position X="7" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAgAAEAAgAQgAAAgAAAQAAAAAAAgAJAAIAAAAAAAA=</HashCode>
+      <FileName>Texture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Block">
+    <Position X="7" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAgAAAAgABgAAAAAAA=</HashCode>
+      <FileName>Generate.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="blockTexture" />
+    </ShowAsAssociation>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

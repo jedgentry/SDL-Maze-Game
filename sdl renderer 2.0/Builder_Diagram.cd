@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Builder">
+    <Position X="0.5" Y="0.5" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgABEAAQAAAAAAAAgIAAAAAAABAACB4AAACAA=</HashCode>
+      <FileName>Builder.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Level" />
+    </ShowAsAssociation>
+  </Class>
+  <Struct Name="Cell">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAIAAAAAAAAIAAAAAAAEAAAAAAACACAAAAAA=</HashCode>
+      <FileName>Builder.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
